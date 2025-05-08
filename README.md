@@ -71,7 +71,5 @@ src/
 
 ## 📸 Screenshots
 
-*(Add your screenshots in a `screenshots/` folder and update the paths below)*
-
 ![Home Page](./screenshots/home.png)
 ![Detail Page](./screenshots/detail.png)
